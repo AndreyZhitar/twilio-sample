@@ -10,6 +10,7 @@ public class PullSample {
     public static void main(String[] args) {
         System.out.println("Hello");
         System.out.println("Silly World!!!");
+        System.out.println("One more print line");
         System.out.println("One more sout");
     }
 }
